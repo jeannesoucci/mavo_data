@@ -1,5 +1,5 @@
 {
-	"pageTitle": "Assay Menus by Systems #1",
+	"pageTitle": "Assay Menus by Systems #2",
 	"G01": [
 		{
 			"header": "Clinical Chemistry Systems #1",
@@ -43,6 +43,78 @@
 		},
 		{
 			"header": "Urinalysis"
+		}
+	],
+	"MAIN_COLUMN": [
+		{
+			"G01": {
+				"header": "Clinical Chemistry Systems"
+			}
+		},
+		{
+			"G01": {
+				"header": "Immunoassay Systems"
+			}
+		},
+		{
+			"G01": {
+				"header": "Integrated Chemistry Systems"
+			}
+		},
+		{
+			"G01": {
+				"header": "Hemostasis Systems"
+			}
+		},
+		{
+			"G01": {
+				"header": "Hematology Systems"
+			}
+		},
+		{
+			"G01": {
+				"header": "Infectious Disease Testing Systems"
+			}
+		},
+		{
+			"G01": {
+				"header": "Plasma Proteins Systems"
+			}
+		},
+		{
+			"G01": {
+				"header": "Drug Testing Systems"
+			}
+		},
+		{
+			"G01": {
+				"header": "Molecular Diagnostics"
+			}
+		},
+		{
+			"G01": {
+				"header": "Point of Care Testing"
+			}
+		},
+		{
+			"G01": {
+				"header": "Blood Gas Family"
+			}
+		},
+		{
+			"G01": {
+				"header": "Cardiac"
+			}
+		},
+		{
+			"G01": {
+				"paragraph": "\n                                        <p>Diabetes</p>\n                                    "
+			}
+		},
+		{
+			"G01": {
+				"header": "Urinalysis"
+			}
 		}
 	]
 }
