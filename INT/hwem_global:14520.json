@@ -72,6 +72,12 @@
 			"G01": {
 				"header": "Urinalysis"
 			}
+		},
+		{
+			"G01": {
+				"header": "New G01 header",
+				"paragraph": "<p>new G01 paragraph new G01 paragraph new G01 paragraph new G01 paragraph</p>\n<p>new G01 paragraph new G01 paragraph</p>"
+			}
 		}
 	]
 }
