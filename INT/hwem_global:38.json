@@ -1,0 +1,18 @@
+{
+	"link": [
+		"/siemens_hwem-hwem_ssxa_websites-context-root/hwem_global/corporate-info/index.html",
+		"/siemens_hwem-hwem_ssxa_websites-context-root/hwem_global/press-room/index.html"
+	],
+	"pageTitle": "Computed Tomography",
+	"introContent": "\n                                                        Introducing groundbreaking CT products and services for decades, Siemens is known as the innovation leader: Innovating to maximize clinical outcome, and to contribute to patients’ well-being by to minimizing radiation and contrast media dosage means improving quality of life.\n                                                    ",
+	"linklist": [
+		{
+			"link": [
+				"/siemens_hwem-hwem_ssxa_websites-context-root/hwem_global/medical-imaging/computed-tomography/technologies-innovations/care-right/index.html",
+				"/siemens_hwem-hwem_ssxa_websites-context-root/hwem_global/medical-imaging/computed-tomography/technologies-innovations/fast-care/index.html",
+				"http://healthcare.siemens.com/computed-tomography/dual-source-ct/somatom-definition-flash#webfeature",
+				"http://health.siemens.com/ct_applications/somatomsessions/"
+			]
+		}
+	]
+}
